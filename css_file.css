@@ -1,0 +1,24 @@
+.paraone
+{
+  color:blue;
+}
+.paratwo
+{
+  color:blue;
+}
+h2
+{
+  color:black;
+}
+h4
+{
+  color: blue;
+}
+img
+{
+  background-color: green;
+}
+.Hovered:hover
+{
+  color:yellow;
+}
